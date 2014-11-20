@@ -34,11 +34,13 @@
         
         self.questions = @[@"From what is cognac made?",
                            @"What is 7+7?",
-                           @"What is the capital of Vermont?"];
+                           @"What is the capital of Vermont?",
+                           @"Wer hat Angst vorm PL?"];
         
         self.answers = @[@"Grapes.",
                          @"14.",
-                         @"Montpelier."];
+                         @"Montpelier.",
+                         @"Entwickler."];
         }
     // Return the address of the new object
     return self;
